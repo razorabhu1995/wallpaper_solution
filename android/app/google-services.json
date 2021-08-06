@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947785635028",
+    "firebase_url": "https://flutteradmob-d6302.firebaseio.com",
+    "project_id": "flutteradmob-d6302",
+    "storage_bucket": "flutteradmob-d6302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947785635028:android:c460870aecc64c54ead741",
+        "android_client_info": {
+          "package_name": "com.example.backgroundSolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947785635028-qq8h96nb2qlr7pic142dqhcpah29ic51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbO1uAd5MCAd21z3C9poZzYFjh1FgxcPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947785635028-qq8h96nb2qlr7pic142dqhcpah29ic51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

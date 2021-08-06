@@ -1,6 +1,6 @@
 # backgroundSolution
 
-A new Flutter project.
+This Flutter project was implemented as a solution to setting wallpapers in Android app using Flutter method channel without using any wallpaper plugins available.
 
 ## Getting Started
 
